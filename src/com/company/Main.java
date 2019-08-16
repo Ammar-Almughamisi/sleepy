@@ -5,6 +5,9 @@ public class Main {
 
         System.out.println("qw");
     }
+    public void sub(int a, int b ){
+        
+    }
 
     public static void main(String[] args) {
     }
